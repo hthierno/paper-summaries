@@ -3,9 +3,35 @@
 ### Tags
 `#approximation` `#theory` `#pruning` `#compression` `#quantization` `#neuralarchitecturesearch` `#nas` 
 
-`#{YEAR}`
+`#{YEAR}` `#activationfunction` `#lrscheduler` `#optimization`
 
 ### Last Added
+
+- [Gaussian Error Linear Units (GELUs)](./summaries/gaussian-error-linear-units/index.md)
+
+  `#activationfunction` `#2016`
+
+- [Searching for Activation Functions](./summaries/searching-for-activation-functions/index.md)
+
+  `#activationfunction` `#neuralarchitecturesearch` `#nas` `#2017`
+
+- [SGDR: Stochastic Gradient Descent With Restarts](./summaries/stochastic-gradient-descent-with-restarts/index.md)
+
+  `#lrscheduler` `#optimization` `#2016`
+
+### All
+
+- [Gaussian Error Linear Units (GELUs)](./summaries/gaussian-error-linear-units/index.md)
+
+  `#activationfunction` `#2016`
+
+- [Searching for Activation Functions](./summaries/searching-for-activation-functions/index.md)
+
+  `#activationfunction` `#neuralarchitecturesearch` `#nas` `#2017`
+
+- [SGDR: Stochastic Gradient Descent With Restarts](./summaries/stochastic-gradient-descent-with-restarts/index.md)
+
+  `#lrscheduler` `#optimization` `#2016`
 
 - [Learning Efficient Convolutional Networks through Network Slimming](./summaries/network-slimming/index.md)
 
