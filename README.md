@@ -3,35 +3,47 @@
 ### Tags
 `#approximation` `#theory` `#pruning` `#compression` `#quantization` `#neuralarchitecturesearch` `#nas` 
 
-`#{YEAR}` `#activationfunction` `#lrscheduler` `#optimization`
+`#{YEAR}` `#activationfunction` `#lrscheduler` `#optimization` `#visualization`
 
 ### Last Added
 
-- [Gaussian Error Linear Units (GELUs)](./summaries/gaussian-error-linear-units/index.md)
+- [Cyclical Learning Rates for Training Neural Networks](./summaries/cyclical-learning-rates-for-training-neural-networks/index.md)
 
-  `#activationfunction` `#2016`
+  `#lrscheduler` `#optimization` `#2017`
 
-- [Searching for Activation Functions](./summaries/searching-for-activation-functions/index.md)
+- [Visualizing the Loss Landscape of Neural Nets](./summaries/visualizing-the-loss-landscape-of-neural-nets/index.md)
 
-  `#activationfunction` `#neuralarchitecturesearch` `#nas` `#2017`
+  `#visualization` `#theory` `#losslandscape` `#2018`
+  
+- [Mish: A Self Regularized Activation Function](./summaries/mish-activation/index.md)
 
-- [SGDR: Stochastic Gradient Descent With Restarts](./summaries/stochastic-gradient-descent-with-restarts/index.md)
-
-  `#lrscheduler` `#optimization` `#2016`
+  `#activationfunction` `#2019`
 
 ### All
 
-- [Gaussian Error Linear Units (GELUs)](./summaries/gaussian-error-linear-units/index.md)
+- [Mish: A Self Regularized Activation Function](./summaries/mish-activation/index.md)
 
-  `#activationfunction` `#2016`
+  `#activationfunction` `#2019`
 
+- [Visualizing the Loss Landscape of Neural Nets](./summaries/visualizing-the-loss-landscape-of-neural-nets/index.md)
+
+  `#visualization` `#theory` `#losslandscape` `#2018`
+
+- [Cyclical Learning Rates for Training Neural Networks](./summaries/cyclical-learning-rates-for-training-neural-networks/index.md)
+
+  `#lrscheduler` `#optimization` `#2017`
+  
+- [SGDR: Stochastic Gradient Descent With Restarts](./summaries/stochastic-gradient-descent-with-restarts/index.md)
+
+  `#lrscheduler` `#optimization` `#2016`
+  
 - [Searching for Activation Functions](./summaries/searching-for-activation-functions/index.md)
 
   `#activationfunction` `#neuralarchitecturesearch` `#nas` `#2017`
 
-- [SGDR: Stochastic Gradient Descent With Restarts](./summaries/stochastic-gradient-descent-with-restarts/index.md)
+- [Gaussian Error Linear Units (GELUs)](./summaries/gaussian-error-linear-units/index.md)
 
-  `#lrscheduler` `#optimization` `#2016`
+  `#activationfunction` `#2016`
 
 - [Learning Efficient Convolutional Networks through Network Slimming](./summaries/network-slimming/index.md)
 
